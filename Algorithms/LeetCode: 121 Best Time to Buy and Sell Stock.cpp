@@ -18,7 +18,7 @@ Constraints:
 
 From <https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/> 
 
-
+```C++
 class Solution {
 public:
     int maxProfit(vector<int>& prices) {
@@ -51,3 +51,4 @@ public:
         }
         return maxP;
     }
+```
